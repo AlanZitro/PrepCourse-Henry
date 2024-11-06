@@ -1,2 +1,2 @@
-# PrepCourse-Henry
-Practias del modulo 2 del prepcourse de henry
+Este proyecto es una prueba es una prueba de como copias un repo su clonarlo
+
